@@ -49,7 +49,7 @@ npm install
       <td><code>relayPin</code></td>
       <td>The pin used for the relay.
         <br><b>Type:</b> <code>int</code> GPIO number of the pin.
-        <br><b>Default:</b> <code></code> 14
+        <br><b>Default:</b> <code>14</code> 
       </td>
     </tr>
     <tr>
