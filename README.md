@@ -1,4 +1,4 @@
-# MMM-Relay-Timer
+# MMM-Relay-Scheduler
 
 A Module for [MagicMirror](https://github.com/MichMich/MagicMirror) designed to
 control a relay base on the date and time (usefull to power on and off the screen for example).
