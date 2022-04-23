@@ -1,0 +1,23 @@
+{
+    "name": "MMM-Relay-Scheduler",
+    "version": "1.0.0",
+    "description": "MagicMirror module to schedule the state of a relay switch",
+    "main": "MMM-Relay-Scheduler.js",
+    "scripts": {
+        "release": "semantic-release",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/OscarVsp/MMM-VUB-Resto"
+    },
+    "author": "Oscar Van Slijpe",
+    "license": "MIT",
+    "homepage": "https://github.com/OscarVsp/MMM-VUB-Resto#readme",
+    "dependencies": {
+        "onoff": "latest"
+    },
+    "devDependencies": {
+        "electron-rebuild": "^3.2.7"
+    }
+}
